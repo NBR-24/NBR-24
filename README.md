@@ -18,8 +18,8 @@ I'm Navami BR<br>🌱 I’m currently learning front-end developing<br>💬 Ask 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=NBR-24&icon=0&color=13)](https://visitcount.itsvg.in)
+### 👀 Vistiors
+![Visitor Count](https://profile-counter.glitch.me/NBR-24/count.svg)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/navamibr) 
