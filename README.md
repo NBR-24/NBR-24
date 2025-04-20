@@ -1,3 +1,4 @@
+
 ![a28d60993fcd43aa707d701b2c149731](https://github.com/user-attachments/assets/27e058b0-8223-45f0-948f-765e0d676301)
 
 
@@ -15,9 +16,6 @@ I'm Navami BR<br>🌱 I’m currently learning front-end developing<br>💬 Ask 
 ![](https://github-readme-stats.vercel.app/api?username=NBR-24&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=NBR-24&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NBR-24&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 👀 Vistiors
 ![Visitor Count](https://profile-counter.glitch.me/NBR-24/count.svg)
