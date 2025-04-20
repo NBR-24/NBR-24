@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://pin.it/4rnYBvPL1"  />
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV3c2k1eHJnbmQ2OHVkcnppZGc0bzFmb2w1cmk3NHlxZnd4OTBtMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VDGeLW6lqI9qyctnV3/giphy.gif"  />
 </div>
 
 ###
@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hola there 👋</h1>
 
 ###
 
