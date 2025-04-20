@@ -38,9 +38,6 @@
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=NBR-24&theme=tokyonight&hide_border=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NBR-24&theme=tokyonight&hide_border=true&layout=compact)
 
-### 🏙️ GitHub Skyline
-
-[![GitHub Skyline]](https://skyline.github.com/NBR-24/2024)
 
 ## 👀 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/NBR-24/count.svg)
