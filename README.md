@@ -1,8 +1,8 @@
 <div align="center">
-  <img width="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJlZXM5czB2bTYyeDlnaHU2NDRuOWxmaDE5ZDZheTM0eWUzdGlhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QIl0CL2kd7sICgfqk0/giphy.gif" />
 </div>
 
-#💫 About Me:
+## ✨ About Me:
 I'm Navami BR<br>🌱 I’m currently learning front-end developing<br>💬 Ask me about designing and sports<br>⚡ Fun fact started designing before coding
 
 
