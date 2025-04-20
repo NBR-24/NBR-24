@@ -1,5 +1,5 @@
-<div align="center"> <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJlZXM5czB2bTYyeDlnaHU2NDRuOWxmaDE5ZDZheTM0eWUzdGlhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QIl0CL2kd7sICgfqk0/giphy.gif"  /> </div>
-# 💫 About Me:
+<div align="center"> <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJlZXM5czB2bTYyeDlnaHU2NDRuOWxmaDE5ZDZheTM0eWUzdGlhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QIl0CL2kd7sICgfqk0/giphy.gif"/> </div>
+##💫 About Me:
 I'm Navami BR<br>🌱 I’m currently learning front-end developing<br>💬 Ask me about designing and sports<br>⚡ Fun fact started designing before coding
 
 
