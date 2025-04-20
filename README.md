@@ -40,8 +40,7 @@
 
 ### 🏙️ GitHub Skyline
 
-Check out my 3D GitHub contribution cityscape from 2024!  
-[![GitHub Skyline](https://skyline.github.com/NBR-24/2024)](https://skyline.github.com/NBR-24/2024)
+[![GitHub Skyline]](https://skyline.github.com/NBR-24/2024)
 
 ## 👀 Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/NBR-24/count.svg)
