@@ -5,7 +5,6 @@
 <h1 align="center">Hi, I'm Navami BR!</h1>
 
 ## ✨ About Me
-- 🌱 Currently learning **Front-End Development and Blender**
 - 💬 Ask me about **Designing** and **Sports**
 - ⚡ Fun fact: I started **Designing** before **Coding**
 
